@@ -18,6 +18,7 @@ public class Example {
         // TODO code application logic here
         //Comentario insertado
         //Comentario desde netbeans
+        //Otro comentario
     }
     
 }
